@@ -1,0 +1,10 @@
+Proceso AreaTriangulo
+    Definir base, altura como Entero;
+    Definir resultado como Real;
+    Escribir "Dame Base";
+    Leer base;
+    Escribir "Dame altura";
+    Leer altura;
+    resultado ← base * altura / 2;
+    Escribir "El resultado es", resultado;
+FinProceso
